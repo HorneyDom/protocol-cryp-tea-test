@@ -1,6 +1,6 @@
 {
   "name": "protocol-cryp-tea-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "App to test",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "crypto-helpful-app": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "minti_fulkerson": "0.1.4",
+    "tea-proj-test1": "1.0.1"
   },
   "author": "",
   "license": "ISC",
